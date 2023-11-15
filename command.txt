@@ -1,0 +1,4 @@
+grep -o 'SUPAPONG' email.txt
+grep '6452300652@stu.pim.ac.th' email.txt
+grep -o '6452300652' email.txt
+
